@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
-title: Welcome to Francois Desaulle's blog!
+title: Welcome to Francois Desaulle's blog !
+description: I've decided to create this blog to share some of my Data Science projects, I hope you'll find it interesting !
 
 You can use the [editor on GitHub](https://github.com/FDesaulle/fdesaulle.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
