@@ -4,7 +4,7 @@ My name is François Desaulle, I am a 22 years old French graduate from the Univ
 
 I am currently finishing a 3 months course in Data Science and AI, and as such, I have decided to create this blog to share some of my Data Science projects, I hope you'll find it interesting ! 
 
-Outside of Data Science, my interests are:
+Outside of Data Science, some of my interests are:
 
 - Traveling: I have been lucky to travel to amazing places over the past years such as Australia, South Africa, Cuba, the Dominican Republic, and Egypt just to name a few...  
 I recently spent a year in Hong Kong where I studied for a semester before getting an intership in digital marketing at Pernod Ricard Asia. I used this time in Hong Kong to travel in South East Asia. I visited Bali, went multiple times to China, traveled through Cambodia for a week on my own, visited Seoul and ended up exploring the East Australian Coast for a month in July 2019.
