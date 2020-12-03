@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: jekyll-theme-cayman
 title: "Credit Card Fraud Detection"
 permalink: /projects/card-fraud/
 ---
