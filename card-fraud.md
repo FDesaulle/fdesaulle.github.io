@@ -1,5 +1,8 @@
+---
 layout: page
 title: "Credit Card Fraud Detection"
-permalink: https://fdesaulle.github.io/projects/cardfraud/
+permalink: /projects/card-fraud/
+---
 
-GRgerfdnkazjdoazjkjzenflejfkjzbadjkleznfbhdzafdnbvehdlxneb,bffld
+Ceci est le contenu de ma nouvelle page
+
