@@ -1,4 +1,3 @@
-{{ content }}
 
 # Welcome to my blog !
 
